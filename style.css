@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
+
+#hr {
+    border: 1px solid #1fedd5;
+}
+
+#dashboard {
+    font-family: "Arial", sans-serif;
+    display: flex;
+}
+
+#hr2 {
+    border: 1px solid #1fedd5;
+}
+
+#hr3 {
+    border: 1px solid #1fedd5;
+}
+
+#hr4 {
+    border: 1px solid #1fedd5;
+}
+#hr5 {
+    border: 1px solid #1fedd5;
+}
